@@ -1,2 +1,10 @@
-# test_01
-Aprendiendo a generar repositorios en  Github
+# Aprendiendo a generar repositorios en  Github
+## Sofia Ortiz
+
+Cosas que debo **aprender**:  
+
++ Almacenar archivos en el repositorio
+
++ Resolver dudas
+
++ Compartir *códigos* y *archivos*
